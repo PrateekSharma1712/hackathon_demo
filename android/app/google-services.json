@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706424360274",
+    "firebase_url": "https://hackathondemo-409ad.firebaseio.com",
+    "project_id": "hackathondemo-409ad",
+    "storage_bucket": "hackathondemo-409ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706424360274:android:4a015c10b72348e0",
+        "android_client_info": {
+          "package_name": "com.prateek.hackathon_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706424360274-v96o0iu4h7pekmcn7qskeo7td9luqij5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIBkUyxHWl8v76q6u960s-B8TQ0-0K8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706424360274-v96o0iu4h7pekmcn7qskeo7td9luqij5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
